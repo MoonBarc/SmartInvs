@@ -1,3 +1,4 @@
+**This is a fork!** This library hasn't been updated by the original author, so I'm going to maintain it a little bit just to get it up to speed with the latest versions. Edits of the readme are prefixed with a **[F]**
 ![SmartInvs Logo](http://minuskube.fr/img/smart-invs/smart_invs.png)
 
 [![License](https://img.shields.io/github/license/minuskube/smartinvs.svg?style=flat-square)](https://github.com/MinusKube/SmartInvs/blob/master/LICENSE.md)
@@ -7,6 +8,7 @@
 Advanced Inventory API for your Minecraft Bukkit plugins.
 
 *Tested Minecraft versions: 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14*  
+**[F]** Now using 1.16 api, not tested yet.
 **You can use this as a Plugin, or use it as a library** (see [the docs](https://minuskube.gitbook.io/smartinvs/))
 
 ## Features
@@ -32,6 +34,7 @@ To use the SmartInvs API, either:
 You can download the latest version on the [Releases page](https://github.com/MinusKube/SmartInvs/releases) on Github.
 
 You can also use a build system:
+**[F]** Gradle is not supported with this fork, I'll push it to Github Packages when I get home.
 ### Gradle
 ```gradle
 repositories {
